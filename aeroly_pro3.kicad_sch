@@ -9337,6 +9337,16 @@
 		)
 		(uuid "674a19e8-f21d-46ea-8f7c-05a0f3315610")
 	)
+	(text "used 1.18k for R22\nin the prototype 2"
+		(exclude_from_sim no)
+		(at 221.742 31.75 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "69a1a5c4-c169-4a10-83c8-d48fcc5a98b1")
+	)
 	(text "ILIM Set by an external \nresistor from ILIM \nto VSS"
 		(exclude_from_sim no)
 		(at 177.038 93.726 0)
@@ -17295,7 +17305,7 @@
 				)
 			)
 		)
-		(property "Value" "1.18K"
+		(property "Value" "100"
 			(at 214.376 36.576 0)
 			(effects
 				(font
